@@ -9,7 +9,7 @@
 
 
 ## ScreenShots
-<h4>HOME</h4>
+
 ![alt text](home.jpg)
 <h4>SHOP</h4>
 ![alt text](shop.jpg)
