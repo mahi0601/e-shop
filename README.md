@@ -20,6 +20,10 @@
 
 ![alt text](login.jpg)
 
+![alt text](admin.jpg)
+
+![alt text](sell.jpg)
+
 ## Components
 <li>HTML : To make it rsponsive we have used Bootstrap .</li>
 <li> Js : <ul> 1.Hover effect</ul> 
