@@ -19,3 +19,10 @@
 ![alt text](product.jpg)
 
 ![alt text](login.jpg)
+
+## Components
+<li>HTML : To make it rsponsive we have used Bootstrap .</li>
+<li> Js :  Hover effect </br>
+           Transition </br>
+           Newsletter </br>.</li>
+<li>SCSS: Used for styling the buttons, pages and the layout.</li> 
