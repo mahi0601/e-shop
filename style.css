@@ -1,0 +1,45 @@
+button {
+    width: 120px;
+    height: 50px;
+    border: #f5f5dc 5px;
+    margin: 5px;
+    border-radius: 50px;
+    transition: 0.3s;
+    opacity: 1;
+    color: white;
+    font-weight: bold;
+    top: -10%;
+    background-color: wheat;
+    position: relative;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+.button1 {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(250, 6, 243, 1) 100%, rgba(0, 212, 255, 1) 100%) outline: none;
+}
+
+.button2 {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(250, 6, 243, 1) 100%, rgba(0, 212, 255, 1) 100%) outline: none;
+}
+
+.popup {
+    padding: 10px;
+    margin: 5px;
+    border: 3px solid black;
+    background-color: #f5f5dc;
+}
+
+.popup1 {
+    visibility: hidden;
+    align-self: flex-end;
+}
+
+.popup2 {
+    visibility: hidden;
+    align-self: flex-end;
+}
