@@ -11,11 +11,11 @@
 ## ScreenShots
 
 ![alt text](home.jpg)
-<h4>SHOP</h4>
+
 ![alt text](shop.jpg)
-<h4>CART</h4>
+
 ![alt text](cart.jpg)
-<h4>PRODUCT</h4>
+
 ![alt text](product.jpg)
-<h4>LOGIN</h4>
+
 ![alt text](login.jpg)
