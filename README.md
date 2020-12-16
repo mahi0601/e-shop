@@ -22,7 +22,7 @@
 
 ## Components
 <li>HTML : To make it rsponsive we have used Bootstrap .</li>
-<li> Js : <ul> Hover effect</ul> </br>
-          <ul> Transition </ul></br>
-          <ul> Newsletter </ul></br>.</li>
+<li> Js : <ul> Hover effect</ul> 
+          <ul> Transition </ul>
+          <ul> Newsletter </ul></li>
 <li>SCSS: Used for styling the buttons, pages and the layout.</li> 
