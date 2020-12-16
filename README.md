@@ -37,6 +37,7 @@ Mobile design should be provided along the usual desktop designs.
 <h3>Design as part of the poject scope</h3>
 If the visual design is part of the project you will need to give guidance on the constraints and desired stylistic direction.</br>
 For example,if your organisation has brand guidelines that should be adhered to, they should be included here.</br>
+
 ## Functionality
 <li>e-Commerce functionality has payments</li>
 <li> It has seperate login for the customers and the admin that basically checks out the total sell and we have the option to buy</li>
