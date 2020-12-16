@@ -7,5 +7,15 @@
     3. Footer-Navigation : It has navigation below also to make it more functional.</br></li>
  <li>It has admin page in which we can check over the MSI reports.</li>
 
+
+## ScreenShots
+<h4>HOME</h4>
 ![alt text](home.jpg)
- 
+<h4>SHOP</h4>
+![alt text](shop.jpg)
+<h4>CART</h4>
+![alt text](cart.jpg)
+<h4>PRODUCT</h4>
+![alt text](product.jpg)
+<h4>LOGIN</h4>
+![alt text](login.jpg)
